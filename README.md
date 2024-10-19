@@ -13,7 +13,7 @@ A conversational AI bot for WhatsApp built using Node.js, WhatsApp-web.js, and G
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/AI_Whatsapp_Bot.git
+   git clone https://github.com/tsakane28/AI_Whatsapp_Bot.git
    ```
    
 2. Navigate into the project directory:
