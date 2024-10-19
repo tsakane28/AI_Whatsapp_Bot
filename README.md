@@ -67,8 +67,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Contact
 
 For any issues, feel free to reach out to me:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **GitHub**: [Tsakane Shiri](https://github.com/tsakane28)
+- **Email**: wesleytsakane116.email@gmail.com
 ```
 
 ### 2. **Add MIT License**
