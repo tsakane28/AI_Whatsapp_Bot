@@ -1,7 +1,5 @@
-### 1. **Professional `README.md`**
-
 ```markdown
-# AI WhatsApp Bot
+## AI WhatsApp Bot
 
 A conversational AI bot for WhatsApp built using Node.js, WhatsApp-web.js, and Google Generative AI. This bot interacts with users via WhatsApp and generates intelligent responses based on user input.
 
